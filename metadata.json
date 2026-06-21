@@ -1,5 +1,6 @@
 {
   "name": "Bytecode Compiler & VM",
   "description": "A simple web-based bytecode compiler and virtual machine for a toy assembly-like language. Enter code, compile it, see the bytecode, and run it in the VM.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
